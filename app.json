@@ -18,11 +18,11 @@
 
     "GITHUB_USERNAME": {
       "description": "Real-Dark-paNda-wa-bot",
-      "required": false
+      "required": true
     },
     
     "GITHUB_AUTH_TOKEN": {
-      "description": "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",
+      "description": "",
       "required": false
     }   
 },
