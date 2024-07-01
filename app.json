@@ -7,22 +7,22 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "94773824266",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~1rV3XKaB#oNCA6EGVV7KXYoghpGhwaKeGWd7b64OzTZGRRRbieQc",
       "required": true
     },  
 
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "Real-Dark-paNda-wa-bot",
       "required": true
     },
     
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     }   
 },
